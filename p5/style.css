@@ -1,0 +1,13 @@
+h2, h3 {
+	font-size: 40px;
+	color: blue;
+	border: 2px solid yellow;
+}
+
+.lorem {
+	color: blue;
+}
+.lorem2 {
+	color: red;
+	font-family: Arial, "helvetica Neue", helvetica, monospace, sans-serif;
+}
